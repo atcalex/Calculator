@@ -1,0 +1,192 @@
+{
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"qt6_target_qml_sources",
+			"qt6_add_qml_module",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"C:/Qt/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 25,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 611,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2186,
+				"parent" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2189,
+				"parent" : 2
+			}
+		]
+	},
+	"id" : "calqlatrexample_tooling::@6890427a1f51a3e7e1df",
+	"name" : "calqlatrexample_tooling",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"name" : "Resources",
+			"sourceIndexes" : 
+			[
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "C:/Qt/Examples/Qt-6.4.3/demos/build-calqlatr-Unnamed-Debug/demos/calqlatr/calqlatr.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "C:/Qt/Examples/Qt-6.4.3/demos/build-calqlatr-Unnamed-Debug/demos/calqlatr/content/Display.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "C:/Qt/Examples/Qt-6.4.3/demos/build-calqlatr-Unnamed-Debug/demos/calqlatr/content/NumberPad.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "C:/Qt/Examples/Qt-6.4.3/demos/build-calqlatr-Unnamed-Debug/demos/calqlatr/content/CalculatorButton.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "C:/Qt/Examples/Qt-6.4.3/demos/build-calqlatr-Unnamed-Debug/demos/calqlatr/content/calculator.js",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "C:/Qt/Examples/Qt-6.4.3/demos/build-calqlatr-Unnamed-Debug/demos/calqlatr/content/images/paper-edge-left.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "C:/Qt/Examples/Qt-6.4.3/demos/build-calqlatr-Unnamed-Debug/demos/calqlatr/content/images/paper-edge-right.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "C:/Qt/Examples/Qt-6.4.3/demos/build-calqlatr-Unnamed-Debug/demos/calqlatr/content/images/paper-grip.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Qt/Examples/Qt-6.4.3/demos/build-calqlatr-Unnamed-Debug/demos/calqlatr/calqlatr.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Qt/Examples/Qt-6.4.3/demos/build-calqlatr-Unnamed-Debug/demos/calqlatr/content/Display.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Qt/Examples/Qt-6.4.3/demos/build-calqlatr-Unnamed-Debug/demos/calqlatr/content/NumberPad.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Qt/Examples/Qt-6.4.3/demos/build-calqlatr-Unnamed-Debug/demos/calqlatr/content/CalculatorButton.qml.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Qt/Examples/Qt-6.4.3/demos/build-calqlatr-Unnamed-Debug/demos/calqlatr/content/calculator.js.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Qt/Examples/Qt-6.4.3/demos/build-calqlatr-Unnamed-Debug/demos/calqlatr/content/images/paper-edge-left.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Qt/Examples/Qt-6.4.3/demos/build-calqlatr-Unnamed-Debug/demos/calqlatr/content/images/paper-edge-right.png.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Qt/Examples/Qt-6.4.3/demos/build-calqlatr-Unnamed-Debug/demos/calqlatr/content/images/paper-grip.png.rule",
+			"sourceGroupIndex" : 2
+		}
+	],
+	"type" : "INTERFACE_LIBRARY"
+}

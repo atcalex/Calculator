@@ -1,0 +1,14 @@
+-rootPath
+C:/Qt/Examples/Qt-6.4.3/demos/calqlatr
+-cmake-output
+-output-file
+C:/Qt/Examples/Qt-6.4.3/demos/build-calqlatr-Unnamed-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_calqlatrexample.cmake
+-importPath
+C:/Qt/Examples/Qt-6.4.3/demos/build-calqlatr-Unnamed-Debug/demos/calqlatr
+-importPath
+C:/Qt/Examples/Qt-6.4.3/demos/build-calqlatr-Unnamed-Debug
+-importPath
+C:/Qt/6.4.3/msvc2019_64/./qml
+-qrcFiles
+C:/Qt/Examples/Qt-6.4.3/demos/build-calqlatr-Unnamed-Debug/.rcc/qmake_demos_calqlatr.qrc
+C:/Qt/Examples/Qt-6.4.3/demos/build-calqlatr-Unnamed-Debug/.rcc/calqlatrexample_raw_qml_0.qrc

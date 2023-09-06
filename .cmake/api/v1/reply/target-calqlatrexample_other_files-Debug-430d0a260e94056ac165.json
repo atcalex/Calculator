@@ -1,0 +1,252 @@
+{
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"_qt_internal_expose_source_file_to_ide",
+			"_qt_internal_process_resource",
+			"qt6_add_resources",
+			"qt6_add_qml_module",
+			"set_property",
+			"qt6_target_qml_sources"
+		],
+		"files" : 
+		[
+			"C:/Qt/6.4.3/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"C:/Qt/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 25,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 561,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 342,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 1727,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1584,
+				"parent" : 4
+			},
+			{
+				"command" : 6,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 2205,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 342,
+				"parent" : 7
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 1727,
+				"parent" : 8
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 1594,
+				"parent" : 9
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 1727,
+				"parent" : 8
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 1594,
+				"parent" : 11
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 1727,
+				"parent" : 8
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 1594,
+				"parent" : 13
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 1727,
+				"parent" : 8
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 1594,
+				"parent" : 15
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 1727,
+				"parent" : 8
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 1594,
+				"parent" : 17
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 1727,
+				"parent" : 8
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 1594,
+				"parent" : 19
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 1727,
+				"parent" : 8
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 1594,
+				"parent" : 21
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 1727,
+				"parent" : 8
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 1594,
+				"parent" : 23
+			}
+		]
+	},
+	"id" : "calqlatrexample_other_files::@6890427a1f51a3e7e1df",
+	"name" : "calqlatrexample_other_files",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"name" : "Resources",
+			"sourceIndexes" : 
+			[
+				6,
+				7,
+				8
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 5,
+			"path" : "C:/Qt/Examples/Qt-6.4.3/demos/build-calqlatr-Unnamed-Debug/demos/calqlatr/qmldir",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 10,
+			"path" : "calqlatr.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 12,
+			"path" : "content/Display.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 14,
+			"path" : "content/NumberPad.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 16,
+			"path" : "content/CalculatorButton.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 18,
+			"path" : "content/calculator.js",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 20,
+			"path" : "content/images/paper-edge-left.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 22,
+			"path" : "content/images/paper-edge-right.png",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 24,
+			"path" : "content/images/paper-grip.png",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

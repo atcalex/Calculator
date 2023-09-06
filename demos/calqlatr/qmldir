@@ -1,0 +1,7 @@
+module demos.calqlatr
+typeinfo calqlatrexample.qmltypes
+prefer :/demos/calqlatr/
+Display 1.0 content/Display.qml
+NumberPad 1.0 content/NumberPad.qml
+CalculatorButton 1.0 content/CalculatorButton.qml
+

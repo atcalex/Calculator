@@ -1,0 +1,160 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6d5ef389b0187d31b69b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "calqlatr",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-47ce52251ded3c6453cf.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-286ac00cf70dc769be72.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-faf77e48bf38edf4e1de.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calqlatrexample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calqlatrexample-Debug-5378a16184a4d905f348.json",
+					"name" : "calqlatrexample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calqlatrexample_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calqlatrexample_autogen-Debug-6744409c9658c14e2036.json",
+					"name" : "calqlatrexample_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calqlatrexample_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calqlatrexample_autogen_timestamp_deps-Debug-49a70f57df40a93b2a9d.json",
+					"name" : "calqlatrexample_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calqlatrexample_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calqlatrexample_other_files-Debug-430d0a260e94056ac165.json",
+					"name" : "calqlatrexample_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calqlatrexample_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calqlatrexample_qmlimportscan-Debug-32fd7cb0bfcdda43f272.json",
+					"name" : "calqlatrexample_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calqlatrexample_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calqlatrexample_qmllint-Debug-8a02575a8fa6b124c58c.json",
+					"name" : "calqlatrexample_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calqlatrexample_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calqlatrexample_qmllint_json-Debug-a6295183044f3eacfcd3.json",
+					"name" : "calqlatrexample_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calqlatrexample_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calqlatrexample_qmltyperegistration-Debug-39a87221f5fd5d7e9523.json",
+					"name" : "calqlatrexample_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calqlatrexample_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calqlatrexample_tooling-Debug-8a423dce485ffd83931e.json",
+					"name" : "calqlatrexample_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt/Examples/Qt-6.4.3/demos/build-calqlatr-Unnamed-Debug",
+		"source" : "C:/Qt/Examples/Qt-6.4.3/demos/calqlatr"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
